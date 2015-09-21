@@ -1,0 +1,16 @@
+nav {
+	display: flex;
+	justify-content: center;
+}
+
+nav li {
+	list-style-type: none;
+	display: inline;
+	padding: 2px 10px 2px 10px;
+	border: 1px green solid;
+	}
+
+nav li:hover {
+	background-color: purple;
+}
+
